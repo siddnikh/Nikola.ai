@@ -1,7 +1,7 @@
 # Nikola.ai
 A thought experiment for therabeats. Service 1.
 
-This consists of a Python File and an .ipynb Ipython Notebook file.
+This consists of a Python File, an .ipynb Ipython Notebook file and a website folder.
 
 The documentation in the notebook regarding Transformer is from the official TensorFlow website.
 
