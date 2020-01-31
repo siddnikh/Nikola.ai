@@ -28,7 +28,10 @@ Transformer, proposed in the paper Attention is All You Need, is a neural networ
 
 * If the input does have a temporal/spatial relationship, like text, some positional encoding must be added or the model will effectively see a bag of words.
 
+WebSite ScreenShots : Coming soon ( By 1st February 1pm )
+
 References : 
 * Use the Adam optimizer with a custom learning rate scheduler according to the formula in the [paper](https://arxiv.org/abs/1706.03762).
 * Documentation help, Documentation in the JupyterNotebook help and code structure inspired from https://www.tensorflow.org/tutorials/text/transformer
+
 
